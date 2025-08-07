@@ -17,5 +17,8 @@
     "puppeteer": "^24.15.0",
     "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.31.0"
+  },
+  "devDependencies": {
+    "nexe": "^5.0.0-beta.4"
   }
 }
